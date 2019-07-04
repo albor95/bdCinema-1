@@ -1,5 +1,5 @@
 create table ingresso(
-IngCod int not null,
+IngCod int not null auto_increment,
 IngFilCod int not null,
 IngSalCod int not null,
 IngSesDat datetime not null,
