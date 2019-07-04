@@ -1,0 +1,4 @@
+Insert into filme (FilNom, FilGen)
+Values ('O Hobbit - A Desolação de Smaug', 'Aventura'),
+	('Harry Potter e a Pedra Filosofal', 'Fantasia'),
+    ('Até o Último Homem', 'Ação');
