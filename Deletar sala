@@ -1,0 +1,2 @@
+Delete from sala
+where SalCod = 2;
