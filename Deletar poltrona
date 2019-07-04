@@ -1,0 +1,2 @@
+Delete from poltrona
+where PolCod = 'S16' And PolCod = 'S15';
