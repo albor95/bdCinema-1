@@ -1,0 +1,3 @@
+Update poltrona 
+set PolCod = 'S01'
+Where PolCod = 'S1';
