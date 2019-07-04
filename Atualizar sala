@@ -1,0 +1,3 @@
+Update sala
+Set SalNom = 'Sala Drama'
+Where SalCod = 3;
