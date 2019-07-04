@@ -4,6 +4,7 @@ IngSalCod int not null,
 IngSesDat datetime not null,
 IngPolCod varchar(5) not null,
 IngPre float(4,2) not null,
+IngVen char(1),
 Primary Key(IngCod, IngFilCod, IngSalCod, IngPolCod),
 Foreign Key(IngFilCod, IngSalCod, IngSesDat) References sessao(FilCod, SalCod, SesDatHor),
 Foreign Key(IngPolCod) References poltrona(PolCod)
